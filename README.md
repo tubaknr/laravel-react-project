@@ -39,13 +39,3 @@ The primary goal of this project is educational:
 - Node.js & npm/yarn
 - MySQL or SQLite
 
-### Installation
-
-1. Clone the repository
-2. Install backend dependencies:
-   ```bash
-    cd backend
-    composer install
-    cp .env.example .env
-    php artisan key:generate
-    ```
